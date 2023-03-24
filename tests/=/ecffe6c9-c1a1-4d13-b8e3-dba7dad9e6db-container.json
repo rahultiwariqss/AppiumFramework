@@ -1,0 +1,1 @@
+{"uuid": "6791df9c-95e0-4969-9062-b2a8624abf42", "children": ["6a5b16fd-fe71-4f68-bbc2-9a3fa45d2659"], "befores": [{"name": "classObjects", "status": "passed", "steps": [{"name": "Object created for contact page", "status": "passed", "start": 1679472062371, "stop": 1679472062371}], "start": 1679472062371, "stop": 1679472062371}], "start": 1679472062371, "stop": 1679472065916}
